@@ -1,48 +1,45 @@
-# AutoFlow – Lead Flow Automation 🧠⚙️
+# AutoFlow – Lead Flow Automation
 
-Automação inteligente de etapas de qualificação e acompanhamento de leads no Salesforce CRM. Este projeto tem como objetivo aumentar a produtividade de equipes comerciais e garantir o acompanhamento eficiente do funil de vendas.
+[🇧🇷 Português](#português) | [🇺🇸 English](#english)
 
-## 📌 Visão Geral
+---
 
-O AutoFlow automatiza as seguintes etapas:
+## Português
 
-- Atualização de status do lead (Ex: de *Qualificado* para *Working - Contacted*)
-- Registro automático de data de último contato
-- Atribuição de responsáveis
-- Geração de relatórios e dashboards com base nos novos critérios
+### 📌 Visão Geral
+Texto em português explicando o que o projeto faz, objetivos, e contexto.
 
-## 🧩 Tecnologias Utilizadas
+### 🚀 Funcionalidades
+- Lista de funções principais do fluxo
+- Integração com Salesforce
+- Automatização de status de leads
 
-- Salesforce (Flow Builder)
-- Salesforce Reports & Dashboards
-- Git + GitHub (versionamento)
-- Markdown (documentação)
+### 🛠 Tecnologias Utilizadas
+- Salesforce Flow
+- GitHub
+- etc.
 
-## 📁 Estrutura
+### 📈 Como Usar
+1. Passo 1...
+2. Passo 2...
 
-AutoFlowLeadFlow/
-│
-├── README.md # Documentação principal
-├── flow-maps/ # Capturas ou fluxogramas dos flows
-├── config-screenshots/ # Imagens de configurações realizadas
-└── dashboard/ # Relatórios e visualizações usadas no projeto
+---
 
+## English
 
-## 🚀 Como Executar
+### 📌 Overview
+English description of what the project does, goals, and context.
 
-1. Acesse sua org Salesforce (Developer ou Trailhead Playground)
-2. Replique os flows conforme os diagramas
-3. Teste o comportamento com leads de teste
-4. Valide os dados nos relatórios e dashboards
+### 🚀 Features
+- List of main flow functions
+- Salesforce integration
+- Lead status automation
 
-## 🧠 Próximos Passos
+### 🛠 Tech Stack
+- Salesforce Flow
+- GitHub
+- etc.
 
-- Criar lógica para atualização de *Lead Score*
-- Automatizar follow-up por email com base na última atividade
-- Documentar processo de deploy (Change Set)
-
-## 👤 Autor
-
-George Franklin  
-[github.com/georgefranklin-dev](https://github.com/georgefranklin-dev)  
-Projeto de automação Salesforce – Portfólio Técnico Internacional
+### 📈 How to Use
+1. Step 1...
+2. Step 2...
